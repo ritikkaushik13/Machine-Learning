@@ -8,7 +8,7 @@ model = joblib.load(r"C:\Users\LENOVO\Desktop\Machine-Learning\Simple Linear Reg
 
 # Initialize the root window
 root = tk.Tk()
-root.title("India's GDP Predictor")
+root.title("Salary Predictor")
 root.geometry("600x300")
 root.config(bg="#e8f1f5") 
 
